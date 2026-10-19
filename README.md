@@ -1,3 +1,27 @@
+# Fibonacci Generator — Django
+
+A Python/Django web application that generates a requested number of Fibonacci terms through an HTML interface.
+
+**Category:** Learning project
+
+## Start here
+
+The actual Django project root is `FibApp/`, where `manage.py` lives. After installing compatible Django dependencies, run `python manage.py runserver` there. The repository includes local IDE files, Python bytecode, and a SQLite database; these are not necessary to explain the application.
+
+## Repository map
+
+- [`FibApp/`](./FibApp)
+
+## Review and reproducibility
+
+This guide describes the repository structure and documented implementation. It does not certify a successful installation, a passing test suite, production readiness, or claimed model accuracy. Keep individual contributions, upstream credits, data sources, and verified results with the relevant implementation.
+
+---
+
+## Existing implementation notes
+
+The original project notes are retained below. Where commands or status differ, use the repository paths and start instructions above.
+
 # Fibonacci Generator Web App using Django
 
 This is a simple web application built using **Django** in PYcharm to generate the Fibonacci sequence up to a number entered by the user.
